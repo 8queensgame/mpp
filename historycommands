@@ -1,0 +1,279 @@
+    1  git --version
+    2  pwd
+    3  cd c/
+    4  cd c:
+    5  pwd
+    6  cd mpp_repo/
+    7  pwd
+    8  cls
+    9  clear
+   10  touch index.html
+   11  touch app.js
+   12  history
+   13  git init
+   14  cd .
+   15  pwd
+   16  cd ..
+   17  pwd
+   18  git init
+   19  cd mpp_repo/
+   20  git init
+   21  git config --gloabal user.name 'ezat'
+   22  git config --gloabal user.name 'ezat'
+   23  git config --gloabal user.name 'ezat' .
+   24  git config --gloabal user.name 'mohamed ezat'
+   25  ls
+   26  pwd
+   27  ls
+   28  clear
+   29  cd ..
+   30  ls
+   31  cd mpp_repo/
+   32  ls
+   33  history
+   34  git init
+   35  git init
+   36  clear
+   37  git config --gloabal user.name 'mohamed ezat'
+   38  help
+   39  man
+   40  clear
+   41  git status 
+   42  git add index.html 
+   43  git status 
+   44  git rm --cached index.html 
+   45  git status 
+   46  git add index.html 
+   47  git status 
+   48  git commit 
+   49  git status 
+   50  git commit 
+   51  git config --global user.email "you@example.com"
+   52  git config --global user.email "mo7amed_3ezat@hotmail.com"
+   53  git config --global user.name "Mohamed Ezat"
+   54  git status 
+   55  clear
+   56  git commit 
+   57  vi text
+   58  clear
+   59  git commit 
+   60  git status 
+   61  git commit 
+   62  git add app.js
+   63  git commit 
+   64  git status 
+   65  git commit 
+   66  clear
+   67  git status 
+   68  git commit 
+   69  it comit -m 'changed app.js'
+   70  git comit -m 'changed app.js'
+   71  git commit -m 'changed app.js'
+   72  git checkout master 
+   73  pwd
+   74  git merge login
+   75  git merge 'login'
+   76  git merge login
+   77  pwd
+   78  mkdir dir1
+   79  touch dir1/text1
+   80  cat hello >> dir1/text1 
+   81  cd dir1/
+   82  ls
+   83  vi text1 
+   84  cd ..
+   85  ls
+   86  pwd
+   87  clear
+   88  pw
+   89  pwd
+   90  clear
+   91  git status
+   92  git add .
+   93  git add dir1/ .
+   94  git status
+   95  git checkout master 
+   96  git commit 
+   97  git checkout master 
+   98  git commit 
+   99  git commit 
+  100  git commit 
+  101  git status
+  102  ls
+  103  git clean dir1/
+  104  git clean -f dir1/
+  105  git status
+  106  ls
+  107  git commit 
+  108  git rm --cached dir1/
+  109  git rm -r --cached dir1/
+  110  git status
+  111  git commit 
+  112  ls
+  113  rm -rf dir1/
+  114  ls
+  115  mkdir dir1
+  116  cat >> dir1/text
+  117  cat dir1/text 
+  118  clear
+  119  git status
+  120  git add dir1
+  121  git status
+  122  git commit
+  123  git commit
+  124  git status
+  125  git checkout master 
+  126  history >> historycommands
+    1  git --version
+    2  pwd
+    3  cd c/
+    4  cd c:
+    5  pwd
+    6  cd mpp_repo/
+    7  pwd
+    8  cls
+    9  clear
+   10  touch index.html
+   11  touch app.js
+   12  history
+   13  git init
+   14  cd .
+   15  pwd
+   16  cd ..
+   17  pwd
+   18  git init
+   19  cd mpp_repo/
+   20  git init
+   21  git config --gloabal user.name 'ezat'
+   22  git config --gloabal user.name 'ezat'
+   23  git config --gloabal user.name 'ezat' .
+   24  git config --gloabal user.name 'mohamed ezat'
+   25  ls
+   26  pwd
+   27  ls
+   28  clear
+   29  cd ..
+   30  ls
+   31  cd mpp_repo/
+   32  ls
+   33  history
+   34  git init
+   35  git init
+   36  clear
+   37  git config --gloabal user.name 'mohamed ezat'
+   38  help
+   39  man
+   40  clear
+   41  git status 
+   42  git add index.html 
+   43  git status 
+   44  git rm --cached index.html 
+   45  git status 
+   46  git add index.html 
+   47  git status 
+   48  git commit 
+   49  git status 
+   50  git commit 
+   51  git config --global user.email "you@example.com"
+   52  git config --global user.email "mo7amed_3ezat@hotmail.com"
+   53  git config --global user.name "Mohamed Ezat"
+   54  git status 
+   55  clear
+   56  git commit 
+   57  vi text
+   58  clear
+   59  git commit 
+   60  git status 
+   61  git commit 
+   62  git add app.js
+   63  git commit 
+   64  git status 
+   65  git commit 
+   66  clear
+   67  git status 
+   68  git commit 
+   69  it comit -m 'changed app.js'
+   70  git comit -m 'changed app.js'
+   71  git commit -m 'changed app.js'
+   72  git checkout master 
+   73  pwd
+   74  git merge login
+   75  git merge 'login'
+   76  git merge login
+   77  pwd
+   78  mkdir dir1
+   79  touch dir1/text1
+   80  cat hello >> dir1/text1 
+   81  cd dir1/
+   82  ls
+   83  vi text1 
+   84  cd ..
+   85  ls
+   86  pwd
+   87  clear
+   88  pw
+   89  pwd
+   90  clear
+   91  git status
+   92  git add .
+   93  git add dir1/ .
+   94  git status
+   95  git checkout master 
+   96  git commit 
+   97  git checkout master 
+   98  git commit 
+   99  git commit 
+  100  git commit 
+  101  git status
+  102  ls
+  103  git clean dir1/
+  104  git clean -f dir1/
+  105  git status
+  106  ls
+  107  git commit 
+  108  git rm --cached dir1/
+  109  git rm -r --cached dir1/
+  110  git status
+  111  git commit 
+  112  ls
+  113  rm -rf dir1/
+  114  ls
+  115  mkdir dir1
+  116  cat >> dir1/text
+  117  cat dir1/text 
+  118  clear
+  119  git status
+  120  git add dir1
+  121  git status
+  122  git commit
+  123  git commit
+  124  git status
+  125  git checkout master 
+  126  history >> historycommands
+  127  clear
+  128  git remote add origin https://github.com/8queensgame/mpp/tree/master
+  129  git remote
+  130  git push -u origin master
+  131  git remote add origin https://github.com/8queensgame/mpp
+  132  git remote remove  origin
+  133  git remote add origin https://github.com/8queensgame/mpp
+  134  git remote
+  135  git push -u origin master
+  136  git remote add origin https://github.com/8queensgame/mpp/tree/master
+  137  git remote remove  origin
+  138  git remote add origin https://github.com/8queensgame/mpp/tree/master
+  139  git push -u origin
+  140  git push -u origin master 
+  141  git remote remove  origin
+  142  git remote add origin https://github.com/8queensgame/mpp/
+  143  git push -u origin master 
+  144  git push -u master 
+  145  git push -u origin master 
+  146  git remote add origin https://github.com/8queensgame/mpp.git
+  147  git remote remove  origin
+  148  git remote add origin https://github.com/8queensgame/mpp.git
+  149  git push -u origin master 
+  150  git fetch origin master
+  151  git merge origin master
+  152  git push -u --force origin master 
+  153  history >> historycommands 
